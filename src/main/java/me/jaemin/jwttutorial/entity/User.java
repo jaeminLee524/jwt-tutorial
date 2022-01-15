@@ -12,7 +12,7 @@ import java.util.Set;
 @Builder
 @AllArgsConstructor
 @NoArgsConstructor
-class User {
+public class User {
 
     @JsonIgnore
     @Id
